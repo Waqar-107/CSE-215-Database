@@ -1,5 +1,6 @@
 /*Practice 7.1*/
 
+
 /*---A---*/
 SELECT EMPLOYEE_ID 
 FROM EMPLOYEES 
